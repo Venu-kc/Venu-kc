@@ -55,17 +55,7 @@ Passionate about transforming raw data into meaningful insights and solving real
 
 **Tools Used:** Python, SQL, Power BI, Pandas, Excel
 
-🔗 **GitHub Repository:** [Add Repository Link]
-
-🔗 **Live Dashboard:** [Add Dashboard Link]
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
+🔗 **GitHub Repository:** [ https://github.com/Venu-kc/End-to-End-E-Commerce-Sales-Analysis-Business-Insights-Dashboard_project ]
 
 ---
 
